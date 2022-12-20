@@ -1,0 +1,11 @@
+---
+- id: 1
+  fname: "Sergei"
+  lname: "Kovaliov"
+  age: 22
+  city: "Kiev"
+- id: 2
+  fname: "Anna"
+  lname: "Kovaliova"
+  age: 13
+  city: "Dnepr"
